@@ -15,12 +15,16 @@ To replicate the findings or re-use the code, one needs to:
 5. Evaluate the neural network model and the VSM (vector space model) using the model_evaluation module. 
 
 # Python code details
+
+## Overview of modules
+
 1. The prelim module creates the word pairs and the datasets.
 2. The model_utils module loads the different embedding models to memory.
 3. The model_creation module creates the neural network model (keras) and trains it with the relevant datasets.
 4. The model_evaluation model take an embedding model and a neural network model and evaluates their performance via Spearman's rho agains the Simlex999 dataset.
 
-## Python package requirements:
+## Python package requirements
+
 1. Python3
 2. gensim (2.3.0)
 3. h5py (2.7.0)
