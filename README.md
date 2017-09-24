@@ -1,5 +1,4 @@
-# Antonym-Detection
-Seminar Paper - Antonym Detection
+# Antonym-Detection - Seminar Paper
 
 The purpose of the seminar paper was to attempt to show the possibility of discerning between antnonyms and synonyms based on their semantical distributional differences.
 
