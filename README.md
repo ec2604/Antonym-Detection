@@ -1,6 +1,6 @@
 # Antonym-Detection - Seminar Paper
 
-The purpose of the seminar paper was to attempt to show the possibility of discerning between antnonyms and synonyms based on their semantical distributional differences, and to use these results to better existing VSM models' predictions.
+The purpose of the seminar paper was to attempt to show the possibility of discerning between antnonyms and synonyms based on their semantical distributional differences and to use these results to better existing VSM models' predictions.
 
 All the datasets, neural networks and code used to create and evaluate them during the writing of the seminar paper has been uploaded here in order to replicate the findings if necessary. 
 
