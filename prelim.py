@@ -244,6 +244,3 @@ def create_simlex_data_sets(embedding_model, target_dir, containment_func, simle
                 print(e)
                 print("Could not create data set for {0} vs. {1}".format(row[0], row[1]))
                 continue
-
-if __name__ == '__main__':
-    pass
