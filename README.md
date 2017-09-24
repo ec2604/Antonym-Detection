@@ -27,7 +27,7 @@ To replicate the findings or re-use the code, one needs to:
 1. Python3
 2. gensim (2.3.0)
 3. h5py (2.7.0)
-4. Keras (1.2.0)
+4. Keras (1.2.0) - backend configuration file uploaded.
 5. matplotlib (2.0.0)
 6. nltk (3.2.2)
 7. numpy (1.12.0+mkl)
